@@ -1,0 +1,1 @@
+This is the sample data that we are going to be using for our Huffman Coding Algorithm.
